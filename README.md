@@ -6,3 +6,10 @@
 - ⌨️ I don't have a lot of programming experience, but I'm going to work hard as I can.
 - 📫 How to reach me: [Twitter - @kosiakov_ivan](https://twitter.com/kosiakov_ivan) , Email -  ivan0kosiakov@gmail.com
 
+### Language pull:
+- 🐍 Python
+- 📑 SQL
+- ➕ C/C++
+- 🕸️ HTML/CSS/PHP
+
+That's all for now 👀

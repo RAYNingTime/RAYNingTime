@@ -10,6 +10,6 @@
 - 🐍 Python
 - 📑 SQL
 - ➕ C/C++
-- 🕸️ HTML/CSS/PHP
+- 🕸️ HTML/CSS/PHP/JS
 
 That's all for now 👀

@@ -6,6 +6,12 @@
 - ⌨️ I don't have a lot of programming experience, but I'm going to work hard as I can.
 - 📫 How to reach me: [Twitter - @kosiakov_ivan](https://twitter.com/kosiakov_ivan) , Email -  ivan0kosiakov@gmail.com
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+ <img align="left" alt="RAYNingTime's Github Stats" src="https://github-readme-stats-nine-lovat.vercel.app/api?username=RAYNingTime&show_icons=true&hide_border=true" />
+</details>
+
 # Languages and Tools:
 ### Software: 
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/git/git.png" />  
@@ -14,9 +20,4 @@
 ### Front-End:
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
-<details>
-  <summary>:zap: Github Stats</summary>
- 
- <img align="left" alt="RAYNingTime's Github Stats" src="https://github-readme-stats-nine-lovat.vercel.app/api?username=RAYNingTime&show_icons=true&hide_border=true" />
- 
-</details>
+

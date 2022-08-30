@@ -6,11 +6,10 @@
 - ⌨️ I don't have a lot of programming experience, but I'm going to work hard as I can.
 - 📫 How to reach me: [Twitter - @kosiakov_ivan](https://twitter.com/kosiakov_ivan) , Email -  ivan0kosiakov@gmail.com
 
-<details>
-  <summary>:zap: Github Stats</summary>
 
- <img align="left" alt="RAYNingTime's Github Stats" src="https://github-readme-stats-nine-lovat.vercel.app/api?username=RAYNingTime&show_icons=true&hide_border=true" />
-</details>
+<summary>:zap: Github Stats</summary>
+<img align="left" alt="RAYNingTime's Github Stats" src="https://github-readme-stats-nine-lovat.vercel.app/api?username=RAYNingTime&show_icons=true&hide_border=true" />
+
 
 
 

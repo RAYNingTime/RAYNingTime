@@ -7,7 +7,7 @@
 - 📫 How to reach me: [Twitter - @kosiakov_ivan](https://twitter.com/kosiakov_ivan) , Email -  ivan0kosiakov@gmail.com
 
 ### Languages that I'm using:
-- 🐍 Python
+- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/#3776AB.svg" /> Python
 - 📑 SQL/MySQL
 - ➕ C/C++
 - 🕸️ HTML/CSS/PHP/JS

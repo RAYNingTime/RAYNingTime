@@ -5,7 +5,7 @@
 - 📚 I’m currently a student at the University of Nicosia.
 - ⌨️ I don't have a lot of programming experience, but I'm going to work hard as I can.
 
-### Contact info: [![General badge](/RAYNingTime/RAYNingTime/raw/master/img/linkedin_light.svg)](https://www.linkedin.com/in/ivan-kosiakov-875360239/) [![General badge](/RAYNingTime/RAYNingTime/raw/master/img/twitter_light.svg)](https://twitter.com/kosiakov_ivan) [![General badge](/RAYNingTime/RAYNingTime/raw/master/img/gmail_light.svg)](mailto:ivan0kosiakov@gmail.com)
+### Contact info: [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-kosiakov-875360239/) [![General badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kosiakov_ivan) [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivan0kosiakov@gmail.com)
 
 # Languages and Tools:
 ### Software: 

@@ -6,7 +6,7 @@
 ## I'm student, developer and cool guy 😎
 - 👨‍🎓 I’m a 2'nd Year BCompSc student at the <a href="https://www.unic.ac.cy/">University of Nicosia</a>
 - 💻 I'm working as Student Assistant at PHP Department of University
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Machine Learning technology 
 - ⚡ Fun fact: I regularly hold meetings on the  social deduction game Mafia among CIS students
 
 ## Languages and Tools:

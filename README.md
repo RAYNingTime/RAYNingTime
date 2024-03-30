@@ -1,4 +1,4 @@
-# It's been a while, but coming back to updating by GitHub Profile 👐
+# It's been a while, but coming back to updating my GitHub Profile 👐
 ## Current goal: Recap of C++ "Object-Oriented Programming in C++" (4th Edition) by Robert Lafore
 ## 30/03/2024
 

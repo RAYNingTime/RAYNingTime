@@ -2,14 +2,28 @@
 
 ## Hello
 
-I am Ivan Kosiakov, a dedicated student, developer, and Founder of Shape & Co. Below is a brief overview of my professional background:
+I am Ivan Kosiakov, a fourth-year Computer Science student at the [University of Nicosia](https://www.unic.ac.cy), specializing in Artificial Intelligence and Machine Learning. I am passionate about building intelligent systems, from training deep learning models (CNNs, NLP) to deploying scalable cloud solutions.
 
-- 🎓 **Education**: I'm currently a 3rd Year BCompSc student at the [University of Nicosia](https://www.unic.ac.cy/).
-- 🚀 **Projects**: Currently working on a Fitness App called Shape.
-- 💻 **Work**: I hold the position of Student Assistant in the Back-End Department at my university and also serve as a Programming Instructor.
+### 🎓 Education
+- **Degree**: BSc in Computer Science
+- **University**: University of Nicosia
+- **GPA**: 3.5
+- **Specialization**: Artificial Intelligence and Machine Learning
+
+### 🚀 Projects
+- **Final Year Project**: Implemented federated learning techniques to improve model training efficiency and data privacy.
+- **Steganography**: Implemented steganography techniques to hide and extract messages within images using the least significant bit (LSB) method.
+- **Retrieval-Augmented Generation (RAG)**: Worked on a RAG framework that enhances the capabilities of Large Language Models (LLMs) by combining them with information retrieval systems.
+
+### 💼 Experience
+- **Student Assistant**: Back-End Department at the University of Nicosia, contributing to various backend development projects.
+- **Programming Instructor**: Taught Python and Machine Learning fundamentals to students, fostering a practical understanding of complex concepts.
+- **Data Science Intern**: Enhanced chatbot performance through advanced topic modeling techniques.
 
 ## 🔧 Languages and Tools:
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/git/git.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/github/github.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" /> 
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/main/topics/keras/keras.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />  
 
 ## 🐙 Octoring
 - [← Prev](https://octo-ring.com/p/RAYNingTime/prev) | [🎲 Random 🎲](https://octo-ring.com/p/RAYNingTime/random) | [Next →](https://octo-ring.com/p/RAYNingTime/next)
